@@ -1,0 +1,11 @@
+@import "./header.css";
+@import "./global.css";
+@import "./introducao.css";
+@import "./experiencia.css";
+@import "./formacao.css";
+@import "./footer.css";
+
+header img {
+  max-width: 190px;
+  max-height: 190px;
+}
